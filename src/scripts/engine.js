@@ -213,7 +213,7 @@ function init() {
     drawCards(5, playerSides.computer);
 
     const bgm = document.getElementById("bgm");
-    bgm.playAudio();
+    bgm.play();
 
 };
 
